@@ -64,3 +64,6 @@ Abbiamo tuttavia deciso di adottare alcune misure qualitative anche sotto questo
 * la conferenza non è gratuita, ma puoi mettere a disposizione degli utenti di CDS un buono sconto (in questo caso specifico, non postare subito ma scrivi prima ad uno degli amministratori);
 
 Nota: i post inerenti una conferenza devono comunque seguire tutte le regole presenti in questo documento.
+
+------
+Si ringrazia il gruppo Web Developer Italiani per averci concesso la possibilità di utilizzare la loro policy come base di partenza per la realizzazione di questo documento.
