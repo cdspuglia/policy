@@ -9,11 +9,11 @@ Se stai offrendo lavoro, al fine di garantire trasparenza verso la comunità e a
 **Voci obbligatorie:**
 
 - Inizia il post con l'hashtag `[#lavoro]`
-- Specifica l'azienda coinvolta
-- Specifica il tuo ruolo all'interno dell'azienda o in che modo sei venuto a conoscenza di tale offerta lavorativa
-- Specifica i requisiti necessari del candidato
-- Specifica il tipo di contratto (o i tipi di contratto possibili)
-- Specifica la retribuzione minima: RAL se contratto italiano dipendente, retribuzione oraria o giornaliera minima se riguarda liberi professionisti, o eventuale stock options se sei una startup in cerca di collaboratori/soci
+- Specifica l'**azienda coinvolta**
+- Specifica **il tuo ruolo** all'interno dell'azienda o in che modo sei venuto a conoscenza di tale offerta lavorativa
+- Specifica i **requisiti necessari** del candidato
+- Specifica il **tipo di contratto** (o i tipi di contratto possibili)
+- Specifica la **retribuzione minima**: RAL se contratto italiano dipendente, retribuzione oraria o giornaliera minima se riguarda liberi professionisti, o eventuale stock options se sei una startup in cerca di collaboratori/soci
 
 Voci consigliate:
 
@@ -41,6 +41,7 @@ Se assunto, il candidato otterrà i seguenti benefit:
 // Per ciò che concerne lo stipendio siate chiari, indicate se è mensile o annuale e se la cifra
 // indicata è netta o lorda; qualora fossero inclusi eventuali rimborsi
 // (ad es.spese per i pendolari) indicate anche questi
+// Vi ricordiamo che è obbligatorio specificare la **retribuizione minima**
 ```
 ## No off-topic e non costruttivi
 
